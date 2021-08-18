@@ -8,8 +8,7 @@
 
 ```
 
-terminate called after throwing an instance of 'rclcpp::exceptions::ParameterAlreadyDeclaredException'
-  what():  parameter 'declared_parameter' has already been declared
+declared_param: Totally
 
 ```
 
